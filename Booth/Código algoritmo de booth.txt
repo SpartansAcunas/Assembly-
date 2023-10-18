@@ -1,8 +1,3 @@
-# 	Miembros del Grupo de Trabajo
-# Carlos Andrés Carmona Rodríguez 2017007295 carlos.andrescr201@gmail.com
-# Alfredo Acuña Chacón 2015183035 alfredoaach@gmail.com
-# Ronny Aguilar Barahona 2014084741 ronny199528@gmail.com
-
 # Multiplicación mediante el uso del algoritmo de booth
 
 # Comienzo del main, en donde se definen parametros
